@@ -1,5 +1,8 @@
+
+/*  include all header files here */
 #include<stdio.h>
 
+/*  main function start from here */
 int main(){
 	
 	#ifdef TEST
